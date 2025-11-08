@@ -277,7 +277,7 @@ overflow: hidden;
 
 .projects__hover{
     position: absolute;
-    background: #dc143c8c;
+    background: #8FABD4;
     top: 0;
     left: 0;
     width: 100%;
@@ -477,3 +477,4 @@ html{
             }
             }
 }
+
